@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
                 println(string)
             }
             println()
-            for (i in 1..20) {
+            for (i in 1..15) {
                 println(i.toString())
             }
             println()
